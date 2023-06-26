@@ -1,6 +1,6 @@
 import cv2 as cv
 
-# Reading Image 
+# Reading Image (OpenCV reads in image as a format of BGR)
 
 # img = cv.imread('Photos/cat_large.jpg')
 
